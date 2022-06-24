@@ -24,3 +24,6 @@
 
 ## 🖼 Bilibili Web Embed Script Screenshot
 ![Bilibili Web Embed Script Screenshot](https://user-images.githubusercontent.com/19167342/143210177-592fd78e-ab59-45b5-888f-2ce62a9774d2.jpg)
+
+## 🖼 Bilibili Web Embed Script Screenshot2
+![Bilibili Web Embed Script Screenshot](https://user-images.githubusercontent.com/19167342/175462422-44a2275a-06d9-488a-8420-98ed38d910be.png)
