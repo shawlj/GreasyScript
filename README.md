@@ -162,6 +162,54 @@
 
 </br>
 
+### ▶ Project GIF View
+
+<table>
+<tr>
+	<td style="width:400px">类别</td>
+	<td>演示</td>
+</tr>
+<tr>
+	<td>
+	电视剧
+	</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%94%B5%E8%A7%86%E5%89%A7%E4%B8%89%E5%9B%BD%E6%BC%94%E4%B9%89.gif"></img></td>
+</tr>
+<tr>
+	<td>电影</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%94%B5%E5%BD%B1%E8%AE%A9%E5%AD%90%E5%BC%B9%E9%A3%9E.gif"></img></td>
+</tr>
+<tr>
+	<td>纪录片</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%BA%AA%E5%BD%95%E7%89%87%E5%AE%88%E6%8A%A4%E8%A7%A3%E6%94%BE%E8%A5%BF.gif"></img></td>
+</tr>
+<tr>
+	<td>番剧</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%95%AA%E5%89%A7%E6%9A%82%E5%81%9C%E8%AE%A9%E6%88%91%E6%9F%A5%E6%94%BB%E7%95%A5.gif"></img></td>
+</tr>
+<tr>
+	<td rowspan="2">综艺</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%BB%BC%E8%89%BA%E4%BD%A0%E5%A5%BD%E7%94%9F%E6%B4%BB.gif"></img></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E7%BB%BC%E8%89%BA%E7%87%83%E7%83%A7%E5%90%A7%E5%A4%A9%E6%89%8D.gif"></img></td>
+</tr>
+<tr>
+	<td>课堂</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E8%AF%BE%E7%A8%8B%E6%95%99%E5%AD%A6%E8%80%83%E7%A0%94%E8%8B%B1%E8%AF%AD.gif"></img></td>
+</tr>
+<tr>
+	<td rowspan="2">普通</td>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E5%90%88%E9%9B%86%E6%99%AE%E9%80%9A%E6%8A%95%E7%A8%BF.gif"></img></td>
+</tr>
+<tr>
+	<td><img src="https://github.com/shawlj/GreasyScript/blob/c6ff364eb7fb3218caf638d5c568ffb15033051b/case/%E5%88%86%E7%BB%84%E5%90%88%E9%9B%86%E6%99%AE%E9%80%9A%E6%8A%95%E7%A8%BF.gif"></img></td>
+</tr>
+</table>
+
+</br>
+
+
 ### ✅ 脚本安装地址：
   https://greasyfork.org/zh-CN/scripts/435986
 
