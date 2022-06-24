@@ -162,7 +162,7 @@
 
 </br>
 
-### ▶ Project GIF View
+### ▶ Video Download GIF View
 
 <table>
 <tr>
